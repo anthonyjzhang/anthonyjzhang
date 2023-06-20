@@ -7,6 +7,19 @@
 </p>
 
 <p align="center">
+                                    connect with me at:
+                                    <div align="center">
+  <a href = "https://www.linkedin.com/in/anthonyjzhang1/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+                                      <a href = "mailto:anthony.zhang@duke.edu"><img src="https://img.shields.io/badge/Microsoft%20Outlook-0078D4.svg?style=for-the-badge&logo=Microsoft-Outlook&logoColor=white"/></a>
+  <a href = "https://www.instagram.com/_anthonyzhang/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+</div>
+
+<p>
+
+  
+</p>
+
+<p align="center">
                                     some technologies i've messed with over the years:
 
 <div align="center">
