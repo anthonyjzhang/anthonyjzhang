@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-                                    some technologies i've used over the years:
+                                    some technologies i've messed with over the years:
 <div align="center">
  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
