@@ -23,6 +23,15 @@
                                     some technologies i've messed with over the years:
 
 <div align="center">
+  <a href = "https://www.credly.com/earner/earned/badge/6bb63137-7db5-4f17-838b-b2f95a1d874d"><img src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width = "160" height = "160"/></a>
+  <a href = "https://www.credly.com/earner/earned/badge/1b9d0fcf-a738-4730-9bd6-9dd9abc86af5"><img src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width = "160" height = "160"/></a>
+</div>
+        <p>
+
+  
+</p>                           
+
+<div align="center">
   <img src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white"/>
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/>
@@ -74,11 +83,6 @@
 
 
 
-<div align="center">
-  <a href = "https://www.credly.com/earner/earned/badge/6bb63137-7db5-4f17-838b-b2f95a1d874d"><img src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width = "160" height = "160"/></a>
-  <a href = "https://www.credly.com/earner/earned/badge/1b9d0fcf-a738-4730-9bd6-9dd9abc86af5"><img src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width = "160" height = "160"/></a>
-</div>
-                                   
 
 
                     
