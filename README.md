@@ -3,7 +3,7 @@
 </h2>
 
 <p align="center">
-  software developer with a passion for creative problem solving<br> experience with <b>full stack development</b>, <b>aws cloud computing</b>, and <b>machine learning</b><br> studying mechanical engineering, computer science, and mathematics at <b>duke university</b><br>co-founder at <b>four alpha</b>, swe intern at <b>fidelity</b>
+  co-founder at <b>four alpha</b>, swe intern at <b>fidelity</b><br>software developer with a passion for creative problem solving<br> experience with <b>full stack development</b>, <b>aws cloud computing</b>, and <b>machine learning</b><br> studying mechanical engineering, computer science, and mathematics at <b>duke university</b>
 </p>
 
 <p align="center">
