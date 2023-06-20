@@ -9,7 +9,7 @@
 <p align="center">
                                     connect with me at:
                                     <div align="center">
-  <a href = "https://www.linkedin.com/in/anthonyjzhang1/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target = "_blank"/></a>
+  <a href = "https://www.linkedin.com/in/anthonyjzhang1/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
                                       <a href = "mailto:anthony.zhang@duke.edu"><img src="https://img.shields.io/badge/Microsoft%20Outlook-0078D4.svg?style=for-the-badge&logo=Microsoft-Outlook&logoColor=white"/></a>
  
 </div>
